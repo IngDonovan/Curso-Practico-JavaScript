@@ -1,0 +1,11 @@
+Se crea el Repositorio en github luego copias la direccion del repo y le das
+git clone  la url           en tu carpeta
+entras a la carpeta cd curso....
+
+luego para trabajar en el visualStudioCode das
+
+code ./ -r         para que el proyecto sea usado en la carpeta principal
+-r reutiliza esta ventana de visualStudioCode y no me genere otra
+
+lo demas es el commit y el pull push
+
